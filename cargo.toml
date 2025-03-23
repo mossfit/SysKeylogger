@@ -1,0 +1,8 @@
+[package]
+name = "keylogger"
+version = "0.1.0"
+authors = ["Your Name <you@example.com>"]
+edition = "2018"
+
+[dependencies]
+evdev = "0.7"  # Library for reading Linux input events.
